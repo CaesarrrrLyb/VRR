@@ -5,7 +5,7 @@
 The related code will be released progressively.
 
 ## Dataset and Annotation
-Below is an example annotation from COIN-IC dataset:
+Below is an example from COIN-IC dataset:
 
 ```json
 [
