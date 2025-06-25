@@ -15,35 +15,40 @@ The following is an example from EPIC dataset:
     "image_id": "201086",
     "image": "s201/frame_0086.jpg",
     "caption": "Daddy Pig makes a large bubble with his mixture.",
-    "Annotation": "Daddy Pig holds a racket covered in mixture."
+    "Annotation": "Daddy Pig holds a racket covered in mixture.",
+    "Timestamp": "00:03:25 - 00:03:33"
   },
   {
     "folder_name": "s201",
     "image_id": "201087",
     "image": "s201/frame_0087.jpg",
     "caption": "Daddy Pig makes a large bubble with his mixture.",
-    "Annotation": "Daddy Pig opens his mouth.."
+    "Annotation": "Daddy Pig opens his mouth.",
+    "Timestamp": "00:03:25 - 00:03:33"
   },
   {
     "folder_name": "s201",
     "image_id": "201088",
     "image": "s201/frame_0088.jpg",
     "caption": "Daddy Pig makes a large bubble with his mixture.",
-    "Annotation": "Daddy Pig is blowing bubbles."
+    "Annotation": "Daddy Pig is blowing bubbles.",
+    "Timestamp": "00:03:25 - 00:03:33"
   },
   {
     "folder_name": "s201",
     "image_id": "201089",
     "image": "s201/frame_0089.jpg",
     "caption": "Daddy Pig makes a large bubble with his mixture.",
-    "Annotation": "Daddy Pig makes his own bubble."
+    "Annotation": "Daddy Pig makes his own bubble.",
+    "Timestamp": "00:03:25 - 00:03:33"
   },
   {
     "folder_name": "s201",
     "image_id": "201090",
     "image": "s201/frame_0090.jpg",
     "caption": "Daddy Pig had started making bubbles.",
-    "Annotation": "A bubble from Daddy Pig floating in the air."
+    "Annotation": "A bubble from Daddy Pig floating in the air.",
+    "Timestamp": "00:03:25 - 00:03:33"
   }
 ]
 ```
