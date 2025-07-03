@@ -104,5 +104,5 @@ The following is an example from COIN-IC dataset:
 This is the PyTorch code of the VRR. The code has been tested on PyTorch 1.13.1. To install the dependencies, run
 
 ```json
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
