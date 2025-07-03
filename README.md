@@ -4,7 +4,7 @@
 
 The related code will be released progressively.
 
-## 🖼️Dataset and Annotation
+## 🖼️Datasets and Annotations
 
 The following is an example from EPIC dataset:
 
