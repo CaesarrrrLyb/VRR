@@ -109,3 +109,9 @@ conda create -n vrr python=3.7
 conda activate vrr
 pip install -r requirements.txt
 ```
+
+## Acknowledgement
+
+```bash
+The implementation of VRR relies on resources from BLIP:https://github.com/salesforce/BLIP
+
