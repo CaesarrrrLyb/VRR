@@ -112,6 +112,6 @@ pip install -r requirements.txt
 
 ## Acknowledgement
 
-```bash
-The implementation of VRR relies on resources from BLIP:https://github.com/salesforce/BLIP
+The implementation of VRR relies on resources from [BLIP](https://github.com/salesforce/BLIP).
+
 
