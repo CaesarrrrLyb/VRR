@@ -112,6 +112,6 @@ pip install -r requirements.txt
 
 ## Acknowledgement
 
-The implementation of VRR relies on resources from [BLIP](https://github.com/salesforce/BLIP), [BERTScore](https://github.com/Tiiiger/bert_score), [COIN](https://github.com/coin-dataset). We thank the original authors for their open-sourcing.
+The implementation of VRR relies on resources from [BLIP](https://github.com/salesforce/BLIP), [BERTScore](https://github.com/Tiiiger/bert_score), [COIN](https://github.com/coin-dataset), [SWIFT](https://github.com/modelscope/ms-swift). We thank the original authors for their open-sourcing.
 
 
